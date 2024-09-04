@@ -11,6 +11,9 @@ class Program4{
         int num2=821;
         int num3=369;
         int num4=562;
+
+        //Get user input for num1-4
+        
         int sum=0;
         double avrg=0.00;         
         //Calculate
